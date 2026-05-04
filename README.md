@@ -15,3 +15,5 @@ Before running this analysis, you need to set up and run the data warehouse : ht
 
 Run the SQL scripts in your preferred SQL environment (e.g., SQL Server Management Studio) after the data warehouse has been set up.
 The project focuses on EDA(Exploratory Data Analysis) such as calculating the key metrics of the business and making comparisons between values regarding the category it belongs to.
+
+![Data Analytics Diagram](https://raw.githubusercontent.com/0F1l1p0/Data_Analysis_Project/39d5a8306c6dcc9b75fea1151ca1d310359e4805/docs/Data.png)

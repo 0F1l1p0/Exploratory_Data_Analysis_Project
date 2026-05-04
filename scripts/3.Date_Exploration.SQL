@@ -6,12 +6,11 @@ Specifically, it:
 - Identifies the first and last recorded order dates
 - Measures the total time span of the dataset (years and months)
 - Analyzes customer age distribution using birth dates
-- Helps uncover trends, seasonality, and data completeness over time
+- Helps uncover trends and seasonality
 
 This step is important in EDA as it:
 - Establishes the timeframe of analysis
-- Highlights potential gaps or anomalies in dates
-- Supports time-based aggregations (monthly, yearly trends)
+- Supports time-based aggregations (monthly trends, yearly trends)
 */
 
 --Finding the date of the first and last order
